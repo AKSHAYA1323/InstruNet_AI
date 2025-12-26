@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset (large files)
+data/raw_audio/
+data/spectrograms/
+
+# OS files
+.DS_Store
