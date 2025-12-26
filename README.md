@@ -112,9 +112,11 @@ FINAL STATUS
 
 
 AUTHOR
+
 Akshaya 
 CNN-Based Musical Instrument Recognition System
 
 
 LICENSE
+
 This project is intended for academic and educational purposes only.
